@@ -3,6 +3,8 @@ DAY1
 
 
 1.Using the countries array create the following array of arrays. The country name, the first three letters of the country name and the length of the country name.
+
+
 const countries = [
   'ALBANIA',
   'BOLIVIA',
